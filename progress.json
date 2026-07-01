@@ -1,9 +1,9 @@
 {
   "total": 605,
-  "done": 6,
-  "error": 5,
+  "done": 11,
+  "error": 0,
   "pending": 594,
-  "last_run_at": "2026-07-01T07:46:09Z",
+  "last_run_at": "2026-07-01T08:46:28Z",
   "last_run_batch": [
     "https://tabletka.ru/catalog/bady-dlya-beremennykh-i-kormyashchikh/",
     "https://tabletka.ru/catalog/dlya-kozhi-volos-i-nogtey/",
@@ -46,6 +46,36 @@
       "status": "error",
       "score": null,
       "note": "network: домен заблокирован политикой egress этой сессии (CONNECT -> 403, policy denial); из разрешённых внешних хостов доступны только github.com и xmlriver.com, поэтому ни целевая страница tabletka.ru, ни сайты конкурентов недоступны для web_fetch"
+    },
+    {
+      "timestamp": "2026-07-01T08:46:28Z",
+      "url": "https://tabletka.ru/catalog/bady-dlya-beremennykh-i-kormyashchikh/",
+      "status": "done",
+      "score": 18
+    },
+    {
+      "timestamp": "2026-07-01T08:46:28Z",
+      "url": "https://tabletka.ru/catalog/dlya-kozhi-volos-i-nogtey/",
+      "status": "done",
+      "score": 18
+    },
+    {
+      "timestamp": "2026-07-01T08:46:28Z",
+      "url": "https://tabletka.ru/catalog/tonometry/",
+      "status": "done",
+      "score": 23
+    },
+    {
+      "timestamp": "2026-07-01T08:46:28Z",
+      "url": "https://tabletka.ru/pharmacies/moskva/",
+      "status": "done",
+      "score": 44
+    },
+    {
+      "timestamp": "2026-07-01T08:46:28Z",
+      "url": "https://tabletka.ru/product/afrin-sprey-naz-0-05-15ml-uvlazhnyayushchiy-133267/",
+      "status": "done",
+      "score": 60
     }
   ]
 }

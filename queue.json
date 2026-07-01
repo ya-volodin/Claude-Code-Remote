@@ -5,38 +5,34 @@
     {
       "index": "001",
       "url": "https://tabletka.ru/catalog/bady-dlya-beremennykh-i-kormyashchikh/",
-      "status": "error",
-      "query": null,
-      "score": null,
-      "report_path": null,
-      "error_reason": "network: домен заблокирован политикой egress этой сессии (CONNECT -> 403, policy denial); из разрешённых внешних хостов доступны только github.com и xmlriver.com, поэтому ни целевая страница tabletka.ru, ни сайты конкурентов недоступны для web_fetch"
+      "status": "done",
+      "query": "витамины для беременных и кормящих",
+      "score": 18,
+      "report_path": "output/001_bady-dlya-beremennykh-i-kormyashchikh.docx"
     },
     {
       "index": "002",
       "url": "https://tabletka.ru/catalog/dlya-kozhi-volos-i-nogtey/",
-      "status": "error",
-      "query": null,
-      "score": null,
-      "report_path": null,
-      "error_reason": "network: домен заблокирован политикой egress этой сессии (CONNECT -> 403, policy denial); из разрешённых внешних хостов доступны только github.com и xmlriver.com, поэтому ни целевая страница tabletka.ru, ни сайты конкурентов недоступны для web_fetch"
+      "status": "done",
+      "query": "витамины для кожи, волос и ногтей",
+      "score": 18,
+      "report_path": "output/002_dlya-kozhi-volos-i-nogtey.docx"
     },
     {
       "index": "003",
       "url": "https://tabletka.ru/catalog/tonometry/",
-      "status": "error",
-      "query": null,
-      "score": null,
-      "report_path": null,
-      "error_reason": "network: домен заблокирован политикой egress этой сессии (CONNECT -> 403, policy denial); из разрешённых внешних хостов доступны только github.com и xmlriver.com, поэтому ни целевая страница tabletka.ru, ни сайты конкурентов недоступны для web_fetch"
+      "status": "done",
+      "query": "тонометры",
+      "score": 23,
+      "report_path": "output/003_tonometry.docx"
     },
     {
       "index": "004",
       "url": "https://tabletka.ru/pharmacies/moskva/",
-      "status": "error",
-      "query": null,
-      "score": null,
-      "report_path": null,
-      "error_reason": "network: домен заблокирован политикой egress этой сессии (CONNECT -> 403, policy denial); из разрешённых внешних хостов доступны только github.com и xmlriver.com, поэтому ни целевая страница tabletka.ru, ни сайты конкурентов недоступны для web_fetch"
+      "status": "done",
+      "query": "аптеки москва",
+      "score": 44,
+      "report_path": "output/004_pharmacies-moskva.docx"
     },
     {
       "index": "005",
@@ -89,11 +85,10 @@
     {
       "index": "011",
       "url": "https://tabletka.ru/product/afrin-sprey-naz-0-05-15ml-uvlazhnyayushchiy-133267/",
-      "status": "error",
-      "query": null,
-      "score": null,
-      "report_path": null,
-      "error_reason": "network: домен заблокирован политикой egress этой сессии (CONNECT -> 403, policy denial); из разрешённых внешних хостов доступны только github.com и xmlriver.com, поэтому ни целевая страница tabletka.ru, ни сайты конкурентов недоступны для web_fetch"
+      "status": "done",
+      "query": "африн спрей назальный купить",
+      "score": 60,
+      "report_path": "output/011_afrin-sprey-nazalnyy.docx"
     },
     {
       "index": "012",
