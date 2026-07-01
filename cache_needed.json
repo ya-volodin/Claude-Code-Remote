@@ -20,8 +20,20 @@
   {
     "target_url": "https://tabletka.ru/catalog/bady-dlya-beremennykh-i-kormyashchikh/",
     "query": "Витамины для беременных и кормящих",
+    "competitor_url": "https://apteka-april.ru/product/227522-vitrum_prenatal_plyus_tabletki_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/catalog/bady-dlya-beremennykh-i-kormyashchikh/",
+    "query": "Витамины для беременных и кормящих",
     "competitor_url": "https://gorzdrav.org/p/komplivit-mama-dlja-beremennykh-i-kormjashhikh-n30-tabl-p-plen-oboloch-po-892-50mg-645568/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/catalog/dlya-kozhi-volos-i-nogtey/",
+    "query": "Витамины для кожи, волос и ногтей",
+    "competitor_url": "https://apteka-april.ru/product/345829-avk_oll_vitamin_kompleks_kozha_volosy_nogti_tabletki_90",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/catalog/dlya-kozhi-volos-i-nogtey/",
@@ -78,6 +90,12 @@
     "competitor_domain": "stolichki.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/adiarin/",
+    "query": "Адиарин",
+    "competitor_url": "https://apteka-april.ru/product/228863-adiarin_probio_kapli_fl_8g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/alfa-normiks/instruction/",
     "query": "Альфа Нормикс инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/alfanormiks400mg-tabl-p-o-14-640107/",
@@ -100,6 +118,12 @@
     "query": "Альфа Нормикс инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_alfa-normiks-tabletki-p-o-plen-400mg-14sht-0200944.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/alfa-normiks/instruction/",
+    "query": "Альфа Нормикс инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/207293-alfa_normiks_tabletki_200mg_36",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/akriderm/instruction/",
@@ -158,6 +182,12 @@
   {
     "target_url": "https://tabletka.ru/selection/ambroksol/",
     "query": "Амброксол",
+    "competitor_url": "https://apteka-april.ru/product/332778-ambroksol_velfarm_tabletki_30mg_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/ambroksol/",
+    "query": "Амброксол",
     "competitor_url": "https://gorzdrav.org/catalog/ambroksol/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -170,8 +200,20 @@
   {
     "target_url": "https://tabletka.ru/selection/amiodaron/",
     "query": "Амиодарон",
+    "competitor_url": "https://apteka-april.ru/product/246174-amiodaron_tabletki_200mg_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/amiodaron/",
+    "query": "Амиодарон",
     "competitor_url": "https://gorzdrav.org/catalog/amiodaron/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/allaforte/",
+    "query": "Аллафорте",
+    "competitor_url": "https://apteka-april.ru/product/227033-allaforte_tabletki_25mg_20",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/allaforte/",
@@ -200,6 +242,12 @@
   {
     "target_url": "https://tabletka.ru/selection/andipal/",
     "query": "Андипал",
+    "competitor_url": "https://apteka-april.ru/product/264804-andipal_tabletki_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/andipal/",
+    "query": "Андипал",
     "competitor_url": "https://gorzdrav.org/p/andipal-tabl-n10-62405/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -208,6 +256,12 @@
     "query": "Андипал",
     "competitor_url": "https://stolichki.ru/drugs/andipal-tab-20",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/angiorus/",
+    "query": "Ангиорус",
+    "competitor_url": "https://apteka-april.ru/product/322524-angiorus_tabletki_1000mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/angiorus/",
@@ -284,6 +338,12 @@
   {
     "target_url": "https://tabletka.ru/selection/anvifen/",
     "query": "Анвифен",
+    "competitor_url": "https://apteka-april.ru/product/154989-anvifen_kapsuly_250mg_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/anvifen/",
+    "query": "Анвифен",
     "competitor_url": "https://stolichki.ru/drugs/anvifen-kaps-50mg-20",
     "competitor_domain": "stolichki.ru"
   },
@@ -308,6 +368,12 @@
   {
     "target_url": "https://tabletka.ru/selection/asigliya/",
     "query": "Асиглия",
+    "competitor_url": "https://apteka-april.ru/product/325257-asigliya_tabletki_100mg_28",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/asigliya/",
+    "query": "Асиглия",
     "competitor_url": "https://gorzdrav.org/p/asiglija-0-1-n28-tabl-p-plen-oboloch-626012/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -322,6 +388,12 @@
     "query": "Асиглия",
     "competitor_url": "https://zdravcity.ru/p_asiglija-tabletki-p-o-plen-100mg-28sht-0187676.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/atenolol/",
+    "query": "Атенолол",
+    "competitor_url": "https://apteka-april.ru/product/214977-atenolol_tabletki_50mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/atenolol/",
@@ -356,6 +428,12 @@
   {
     "target_url": "https://tabletka.ru/selection/betagistin/",
     "query": "Бетагистин",
+    "competitor_url": "https://apteka-april.ru/product/206351-betagistin_tabletki_24mg_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/betagistin/",
+    "query": "Бетагистин",
     "competitor_url": "https://stolichki.ru/drugs/betagistin-reneval-tab-24mg-60",
     "competitor_domain": "stolichki.ru"
   },
@@ -370,6 +448,12 @@
     "query": "Бифицин",
     "competitor_url": "https://stolichki.ru/drugs/bificin-605-7-740-3mg-kapsuly-10",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/bifitsin/",
+    "query": "Бифицин",
+    "competitor_url": "https://apteka-april.ru/product/178342-bificin_kasuly_10",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/bifitsin/",
@@ -404,6 +488,12 @@
   {
     "target_url": "https://tabletka.ru/selection/bisoprolol/instruction/",
     "query": "Бисопролол инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/220041-bisoprolol_tabletki_5mg_50",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/bisoprolol/instruction/",
+    "query": "Бисопролол инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/bisoprololverteks-tabl-p-o-plen-2-5-mg-kh60-250359/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -416,8 +506,20 @@
   {
     "target_url": "https://tabletka.ru/selection/dalneva/",
     "query": "Дальнева",
+    "competitor_url": "https://apteka-april.ru/product/214477-dalneva_tabletki_10mg_8mg_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/dalneva/",
+    "query": "Дальнева",
     "competitor_url": "https://zdravcity.ru/p_dalneva-tab-5mg-4mg-n30-0000632.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/augmentin/",
+    "query": "Аугментин",
+    "competitor_url": "https://apteka-april.ru/product/26817-augmentin_poroshok_dlya_suspenzii_400mg57mg5ml_fl_12_6g",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/augmentin/",
@@ -476,8 +578,20 @@
   {
     "target_url": "https://tabletka.ru/selection/brilinta/instruction/",
     "query": "Брилинта инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/185662-brilinta_tabletki_90mg_56",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/brilinta/instruction/",
+    "query": "Брилинта инструкция по применению",
     "competitor_url": "https://stolichki.ru/drugs/brilinta-tab-p-o-60mg-56",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/dantinorm-bebi/",
+    "query": "Дантинорм Бэби",
+    "competitor_url": "https://apteka-april.ru/product/231724-dantinorm_bebi_rastvor_dlya_priema_vnutr_1ml_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/dantinorm-bebi/",
@@ -518,6 +632,12 @@
   {
     "target_url": "https://tabletka.ru/selection/dispevikt/",
     "query": "Диспевикт",
+    "competitor_url": "https://apteka-april.ru/product/336018-dispevikt_tab_10mg_50",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/dispevikt/",
+    "query": "Диспевикт",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/pishchevaritelnyy-trakt/stimulyatory-motoriki/dispevikt-tab-100-mg-90-sht-20144311/",
     "competitor_domain": "planetazdorovo.ru"
   },
@@ -538,6 +658,12 @@
     "query": "Докси-Хем",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/zabolevaniya-ven/-82/doksi-hem-kaps-500mg-12888160/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/doksi-khem/",
+    "query": "Докси-Хем",
+    "competitor_url": "https://apteka-april.ru/product/3052-doksihem_kapsuly_500mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/doksi-khem/",
@@ -636,6 +762,12 @@
     "competitor_domain": "stolichki.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/elkar/",
+    "query": "Элькар",
+    "competitor_url": "https://apteka-april.ru/product/88416-elkar_rastvor_dlya_priema_vnutr_30_fl_25ml",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/enerion/",
     "query": "Энерион",
     "competitor_url": "https://stolichki.ru/drugs/enerion-tab-p-o-200mg-60",
@@ -646,6 +778,12 @@
     "query": "Энерион",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/vitaminy/vitaminno-mineralnye-kompleksy/enerion-tab-p-ob-10795/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/enerion/",
+    "query": "Энерион",
+    "competitor_url": "https://apteka-april.ru/product/11532-enerion_tabletki_200mg_20",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/dry-dry/",
@@ -676,6 +814,12 @@
     "query": "Эссенциале инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/essenciale-forte-n-kaps-300mg-180-207185/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/essentsiale/instruction/",
+    "query": "Эссенциале инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/70456-essenciale_forte_n_kapsuly_300mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/essentsiale/instruction/",
@@ -720,6 +864,18 @@
     "competitor_domain": "stolichki.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/femoston/instruction/",
+    "query": "Фемостон инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/10085-femoston_tabletki_110mg_28",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/eutiroks/",
+    "query": "Эутирокс",
+    "competitor_url": "https://apteka-april.ru/product/11650-eutiroks_tabletki_75mkg_100",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/eutiroks/",
     "query": "Эутирокс",
     "competitor_url": "https://zdravcity.ru/p_jeutiroks-tabletki-25mkg-100sht-0185654.html",
@@ -760,6 +916,12 @@
     "query": "Ферлатум инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/ferlatum-rr-d-priema-vnutr-flak-15ml-n20-31531/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/ferlatum/instruction/",
+    "query": "Ферлатум инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/52240-ferlatum_rastvor_dlya_priema_vnutr_800mg_fl_15ml_20",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/flamin/",
@@ -866,8 +1028,20 @@
   {
     "target_url": "https://tabletka.ru/selection/ermital/",
     "query": "Эрмиталь",
+    "competitor_url": "https://apteka-april.ru/product/62593-ermital_kapsuly_25tys_50",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/ermital/",
+    "query": "Эрмиталь",
     "competitor_url": "https://zdravcity.ru/p_jermital-kaps-10000-ed-n20-0011651.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/fozikard/",
+    "query": "Фозикард",
+    "competitor_url": "https://apteka-april.ru/product/37302-fozikard_tabletki_10mg_28",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/fozikard/",
@@ -902,6 +1076,12 @@
   {
     "target_url": "https://tabletka.ru/selection/fungoderil/",
     "query": "Фунгодерил",
+    "competitor_url": "https://apteka-april.ru/product/269272-fungoderil_rr_1_fl_25ml",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/fungoderil/",
+    "query": "Фунгодерил",
     "competitor_url": "https://stolichki.ru/drugs/fungoderil-r-r-naruzh-1-15ml",
     "competitor_domain": "stolichki.ru"
   },
@@ -922,6 +1102,12 @@
     "query": "Фурацилин инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/furacilin-tabletki-20-mg-20-342222/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/ganfort/",
+    "query": "Ганфорт",
+    "competitor_url": "https://apteka-april.ru/product/184500-ganfort_glaznye_kapli_fl_3ml",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/ganfort/",
@@ -960,6 +1146,12 @@
     "competitor_domain": "planetazdorovo.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/furadonin/",
+    "query": "Фурадонин",
+    "competitor_url": "https://apteka-april.ru/product/296506-furadonin_tabletki_50mg_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/fluoksetin/",
     "query": "Флуоксетин",
     "competitor_url": "https://gorzdrav.org/p/fluoksetin-lannakher-kaps-20mg-n20-10762/",
@@ -970,6 +1162,12 @@
     "query": "Флуоксетин",
     "competitor_url": "https://zdravcity.ru/p_fluoksetin-lannaher-kaps-20mg-n20-0026698.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/fluoksetin/",
+    "query": "Флуоксетин",
+    "competitor_url": "https://apteka-april.ru/product/90364-fluoksetin_kapsuly_20mg_20",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/fluoksetin/",
@@ -994,6 +1192,12 @@
     "query": "Гепатрин",
     "competitor_url": "https://stolichki.ru/drugs/gepatrin-kaps-60",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/gaynomaks/",
+    "query": "Гайномакс",
+    "competitor_url": "https://apteka-april.ru/product/207970-gajnomaks_suppozitorii_vaginalnye_7",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/gaynomaks/",
@@ -1028,6 +1232,12 @@
   {
     "target_url": "https://tabletka.ru/selection/gioksizon/",
     "query": "Гиоксизон",
+    "competitor_url": "https://apteka-april.ru/product/190955-gioksizon_maz_10g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/gioksizon/",
+    "query": "Гиоксизон",
     "competitor_url": "https://gorzdrav.org/p/gioksizon-maz-10g-340673/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -1048,6 +1258,12 @@
     "query": "Гипосарт",
     "competitor_url": "https://zdravcity.ru/p_giposart-tabletki-8mg-30sht-0243307.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/giposart/",
+    "query": "Гипосарт",
+    "competitor_url": "https://apteka-april.ru/product/279187-giposart_tabletki_16_mg_28_sht_polfarma",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/giposart/",
@@ -1078,6 +1294,12 @@
     "query": "Гонадотропин Хорионический",
     "competitor_url": "https://gorzdrav.org/p/gonadotropin-khorionicheskij-500me-n5-flak-liofilizat-d-rra-v-m-646151/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/gonadotropin-khorionicheskiy/",
+    "query": "Гонадотропин Хорионический",
+    "competitor_url": "https://apteka-april.ru/product/2570-gonadotropin_horion_500ed_fl_5_rl",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/immunoglobulin/instruction/",
@@ -1124,6 +1346,12 @@
   {
     "target_url": "https://tabletka.ru/selection/imodium/",
     "query": "Имодиум",
+    "competitor_url": "https://apteka-april.ru/product/232906-imodium_ekspress_tabletki_liofilizirovannye_2mg_10",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/imodium/",
+    "query": "Имодиум",
     "competitor_url": "https://gorzdrav.org/p/imodium-tabl-liofilizirovannye-2mg-n6-48654/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -1138,6 +1366,12 @@
     "query": "Кальций-Д3 Никомед",
     "competitor_url": "https://stolichki.ru/drugs/kalciy-d3-nikomed-myata-tab-zhev-60/sankt-peterburg",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/kaltsiy-d3-nikomed/",
+    "query": "Кальций-Д3 Никомед",
+    "competitor_url": "https://apteka-april.ru/product/226705-kalcij_d3_nikomed_tabletki_zhevatelnye_apelsin_120",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/kaltsiy-d3-nikomed/",
@@ -1212,6 +1446,12 @@
     "competitor_domain": "zdravcity.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/ismigen/",
+    "query": "Исмиген",
+    "competitor_url": "https://apteka-april.ru/product/207483-ismigen_tabletki_dlya_rassasyvaniya_7mg_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/geptral/instruction/",
     "query": "Гептрал инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/geptral-tabl-p-o-400mg-n20-39104/",
@@ -1238,6 +1478,12 @@
   {
     "target_url": "https://tabletka.ru/selection/kamistad/",
     "query": "Камистад",
+    "competitor_url": "https://apteka-april.ru/product/26432-kamistad_gel_10g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/kamistad/",
+    "query": "Камистад",
     "competitor_url": "https://zdravcity.ru/p_kamistad-gel-stomat-10g-0011792.html",
     "competitor_domain": "zdravcity.ru"
   },
@@ -1246,6 +1492,12 @@
     "query": "Камистад",
     "competitor_url": "https://gorzdrav.org/p/kamistad-gel-10g-16496/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/kardiom/",
+    "query": "Кардиом",
+    "competitor_url": "https://apteka-april.ru/product/328148-kardiom_kalijmagnij_tab_50",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/kardiom/",
@@ -1296,6 +1548,12 @@
     "competitor_domain": "zdravcity.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/karvedilol/",
+    "query": "Карведилол",
+    "competitor_url": "https://apteka-april.ru/product/231799-karvedilol_tabletki_6_25mg_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/klaritin/",
     "query": "Кларитин",
     "competitor_url": "https://zdravcity.ru/p_klaritin-tab-0-01g-10sht-0159584.html",
@@ -1320,10 +1578,22 @@
     "competitor_domain": "planetazdorovo.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/klaritin/",
+    "query": "Кларитин",
+    "competitor_url": "https://apteka-april.ru/product/324667-klaritin_tabletki_10mg_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/klindatsin/instruction/",
     "query": "Клиндацин инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_klindacin-krem-vaginalnyj-tuba-2-19g-aplikator-3sht-0243994.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/klindatsin/instruction/",
+    "query": "Клиндацин инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/61558-klindacin_suppozitorii_vaginalnye_3",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/klindatsin/instruction/",
@@ -1340,6 +1610,12 @@
   {
     "target_url": "https://tabletka.ru/selection/klindovit/",
     "query": "Клиндовит",
+    "competitor_url": "https://apteka-april.ru/product/91876-klindovit_gel_30g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/klindovit/",
+    "query": "Клиндовит",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/kozha/ugrevaya-syp/klindovit-gel-dlya-naruzhnprimya-26285703/",
     "competitor_domain": "planetazdorovo.ru"
   },
@@ -1348,6 +1624,12 @@
     "query": "Ко-Диротон: аналоги",
     "competitor_url": "https://zdravcity.ru/p_ko-diroton-tab-10mg-12-5mg-n30-0026544/analogi/",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/ko-diroton/analogues/",
+    "query": "Ко-Диротон: аналоги",
+    "competitor_url": "https://apteka-april.ru/product/97416-kodiroton_tabletki_1012_5mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/ko-diroton/analogues/",
@@ -1400,6 +1682,12 @@
   {
     "target_url": "https://tabletka.ru/selection/klotrimazol/",
     "query": "Клотримазол",
+    "competitor_url": "https://apteka-april.ru/product/239985-klotrimazol_krem_1_20g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/klotrimazol/",
+    "query": "Клотримазол",
     "competitor_url": "https://stolichki.ru/drugs/klotrimazol-krem-vaginalnyy-1-20g-farma",
     "competitor_domain": "stolichki.ru"
   },
@@ -1436,6 +1724,12 @@
   {
     "target_url": "https://tabletka.ru/selection/kavinton/",
     "query": "Кавинтон",
+    "competitor_url": "https://apteka-april.ru/product/55025-kavinton_forte_tabletki_10mg_90",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/kavinton/",
+    "query": "Кавинтон",
     "competitor_url": "https://gorzdrav.org/p/kavinton-tabl-5mg-n50-4711/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -1450,6 +1744,12 @@
     "query": "Ко-Перинева инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_ko-perineva-tab-2mg-0-625mg-n30-0011600.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/ko-perineva/instruction/",
+    "query": "Ко-Перинева инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/184044-koperineva_tabletki_1_254mg_90",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/ko-perineva/instruction/",
@@ -1478,6 +1778,12 @@
   {
     "target_url": "https://tabletka.ru/selection/kontraktubeks/",
     "query": "Контрактубекс",
+    "competitor_url": "https://apteka-april.ru/product/4524-kontraktubeks_gel_20g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/kontraktubeks/",
+    "query": "Контрактубекс",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/kozha/rubtsy/kontraktubeks-gel-naruzhn-20g-1342300/",
     "competitor_domain": "planetazdorovo.ru"
   },
@@ -1502,6 +1808,12 @@
   {
     "target_url": "https://tabletka.ru/selection/krestor/instruction/",
     "query": "Крестор инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/27771-krestor_tabletki_10mg_28",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/krestor/instruction/",
+    "query": "Крестор инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/krestor-tab-p-pl-ob-5mg-28-37491/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -1516,6 +1828,12 @@
     "query": "Ламиктал инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_lamiktal-tab-25mg-n30-0009134.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/lamiktal/instruction/",
+    "query": "Ламиктал инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/55249-lamiktal_tabletki_25mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/lamiktal/instruction/",
@@ -1550,8 +1868,20 @@
   {
     "target_url": "https://tabletka.ru/selection/lineks/",
     "query": "Линекс",
+    "competitor_url": "https://apteka-april.ru/product/208717-lineks_forte_kapsuly_7",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/lineks/",
+    "query": "Линекс",
     "competitor_url": "https://zdravcity.ru/p_lineks-forte-kaps-n28-0098903.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/livarol/",
+    "query": "Ливарол",
+    "competitor_url": "https://apteka-april.ru/product/62485-livarol_suppozitorii_vaginalnye_0_4g_10",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/livarol/",
@@ -1718,6 +2048,12 @@
   {
     "target_url": "https://tabletka.ru/selection/metrogil/",
     "query": "Метрогил",
+    "competitor_url": "https://apteka-april.ru/product/5791-metrogil_rastvor_dlya_infuzij_5mgml_fl_100ml",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/metrogil/",
+    "query": "Метрогил",
     "competitor_url": "https://zdravcity.ru/p_metrogil-gel-d-naruzhn-prim-1-30g-n1-0005070.html",
     "competitor_domain": "zdravcity.ru"
   },
@@ -1744,6 +2080,12 @@
     "query": "Мирапекс",
     "competitor_url": "https://stolichki.ru/drugs/mirapeks-tab-1mg-30",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/mirapeks/",
+    "query": "Мирапекс",
+    "competitor_url": "https://apteka-april.ru/product/104580-mirapeks_tabletki_1mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/mirapeks/",
@@ -1804,6 +2146,12 @@
     "query": "Монтелар",
     "competitor_url": "https://gorzdrav.org/p/montelar-tabl-zhev-4mg-n28-41894/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/montelar/",
+    "query": "Монтелар",
+    "competitor_url": "https://apteka-april.ru/product/269830-montelar_tabletki_10mg_28",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/montelar/",
@@ -1902,6 +2250,12 @@
     "competitor_domain": "zdravcity.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/nayz/instruction/",
+    "query": "Найз инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/26445-najz_tabletki_100mg_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/natriya-khlorid/",
     "query": "Натрия хлорид",
     "competitor_url": "https://gorzdrav.org/p/natrija-khlorid-rr-d-inf-0-9-200ml-1-208374/",
@@ -1922,6 +2276,12 @@
   {
     "target_url": "https://tabletka.ru/selection/mebikar/",
     "query": "Мебикар",
+    "competitor_url": "https://apteka-april.ru/product/228747-mebikar_tabletki_500mg_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/mebikar/",
+    "query": "Мебикар",
     "competitor_url": "https://zdravcity.ru/p_mebikar-tab-500mg-n20-0091775.html",
     "competitor_domain": "zdravcity.ru"
   },
@@ -1930,6 +2290,12 @@
     "query": "Необутин",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/pishchevaritelnyy-trakt/spazmolitiki/neobutin-tab-200mg-5352/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/neobutin/",
+    "query": "Необутин",
+    "competitor_url": "https://apteka-april.ru/product/232828-neobutin_retard_tabletki_300mg_20",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/neobutin/",
@@ -1980,10 +2346,22 @@
     "competitor_domain": "stolichki.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/nimesil/instruction/",
+    "query": "Нимесил инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/6344-nimesil_granuly_dlya_prigotovleniya_suspenzii_100mg_pak_2g_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/normomed/",
     "query": "Нормомед",
     "competitor_url": "https://stolichki.ru/drugs/normomed-sirop-50mg-ml-120ml",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/normomed/",
+    "query": "Нормомед",
+    "competitor_url": "https://apteka-april.ru/product/353101-normomed_sirop_50mgml_flakon_120ml",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/normomed/",
@@ -2018,6 +2396,12 @@
   {
     "target_url": "https://tabletka.ru/selection/oflomelid/",
     "query": "Офломелид",
+    "competitor_url": "https://apteka-april.ru/product/187909-oflomelid_maz_50g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/oflomelid/",
+    "query": "Офломелид",
     "competitor_url": "https://gorzdrav.org/p/oflomelid-maz-30g-43431/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -2026,6 +2410,18 @@
     "query": "Омник инструкция по применению",
     "competitor_url": "https://gorzdrav.org/catalog/omnik/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/omnik/instruction/",
+    "query": "Омник инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/6653-omnik_kapsuly_0_4mg_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/orlistat/",
+    "query": "Орлистат",
+    "competitor_url": "https://apteka-april.ru/product/337448-orlistat_kaps_120mg_84",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/orlistat/",
@@ -2050,6 +2446,12 @@
     "query": "Орлистат",
     "competitor_url": "https://zdravcity.ru/p_orlistat-kapsuly-120mg-84sht-0203352.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/oseltamivir/",
+    "query": "Осельтамивир",
+    "competitor_url": "https://apteka-april.ru/product/344943-oseltamivir_kapsuly_45mg_10_ozon",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/oseltamivir/",
@@ -2092,6 +2494,12 @@
     "query": "Оциллококцинум",
     "competitor_url": "https://planetazdorovo.ru/brand/ocillokokcinum-3239/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/novobismol/",
+    "query": "Новобисмол",
+    "competitor_url": "https://apteka-april.ru/product/213085-novobismol_tabletki_120mg_112",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/novobismol/",
@@ -2150,6 +2558,12 @@
   {
     "target_url": "https://tabletka.ru/selection/omez/instruction/",
     "query": "Омез инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/6629-omez_kapsuly_20mg_30",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/omez/instruction/",
+    "query": "Омез инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_omez-kapsuly-kishechnorastvorimye-20mg-30sht-0187741.html",
     "competitor_domain": "zdravcity.ru"
   },
@@ -2164,6 +2578,12 @@
     "query": "Омакор инструкция по применению",
     "competitor_url": "https://stolichki.ru/drugs/omakor-kaps-1g-28",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/omakor/instruction/",
+    "query": "Омакор инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/27776-omakor_kapsuly_28",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/omakor/instruction/",
@@ -2188,6 +2608,12 @@
     "query": "Пантогам",
     "competitor_url": "https://zdravcity.ru/p_pantogam-s-mernoj-lozhkoj-rastvor-dlja-priema-vnutr-100mg-ml-100ml-0187663.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/pantogam/",
+    "query": "Пантогам",
+    "competitor_url": "https://apteka-april.ru/product/185175-pantogam_tabletki_500mg_50",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/paranit/",
@@ -2234,6 +2660,12 @@
   {
     "target_url": "https://tabletka.ru/selection/papaverin/",
     "query": "Папаверин",
+    "competitor_url": "https://apteka-april.ru/product/188543-papaverin_tabletki_40mg_20",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/papaverin/",
+    "query": "Папаверин",
     "competitor_url": "https://gorzdrav.org/catalog/papaverin-tabletki/",
     "competitor_domain": "gorzdrav.org"
   },
@@ -2266,6 +2698,12 @@
     "query": "Периндоприл",
     "competitor_url": "https://gorzdrav.org/catalog/perindopril/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/prostateks/",
+    "query": "Простатекс",
+    "competitor_url": "https://apteka-april.ru/product/271979-prostateks_supp_rekt_10mg_10",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/prostateks/",
@@ -2372,6 +2810,12 @@
   {
     "target_url": "https://tabletka.ru/selection/rokona/",
     "query": "Рокона",
+    "competitor_url": "https://apteka-april.ru/product/235168-rokona_tabletki_50mg_15",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/rokona/",
+    "query": "Рокона",
     "competitor_url": "https://stolichki.ru/drugs/rokona-tab-p-o-50mg-15",
     "competitor_domain": "stolichki.ru"
   },
@@ -2396,6 +2840,12 @@
   {
     "target_url": "https://tabletka.ru/selection/rotokan/",
     "query": "Ротокан",
+    "competitor_url": "https://apteka-april.ru/product/274209-rotokan_fl_50ml",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/rotokan/",
+    "query": "Ротокан",
     "competitor_url": "https://stolichki.ru/drugs/rotokan-50ml",
     "competitor_domain": "stolichki.ru"
   },
@@ -2408,6 +2858,12 @@
   {
     "target_url": "https://tabletka.ru/selection/semavik/",
     "query": "Семавик",
+    "competitor_url": "https://apteka-april.ru/product/339012-semavik_rr_dpk_vved_0_25mgdoza_1_5ml_shpricruchka_1__odnoraz_igla_4",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/semavik/",
+    "query": "Семавик",
     "competitor_url": "https://stolichki.ru/drugs/semavik-rastvor-podkozhno-1-34mg-ml-3ml-shpric-ruchka-1",
     "competitor_domain": "stolichki.ru"
   },
@@ -2416,6 +2872,12 @@
     "query": "Селектра инструкция по применению",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/nevrologiya-psikhiatriya/antidepressanty/selektra-tab-p-ob-30497/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/selektra/instruction/",
+    "query": "Селектра инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/88381-selektra_tabletki_10mg_28",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/selektra/instruction/",
@@ -2448,6 +2910,12 @@
     "competitor_domain": "zdravcity.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/serokvel/",
+    "query": "Сероквель",
+    "competitor_url": "https://apteka-april.ru/product/92756-serokvel_tab_100mg_60",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/simbikort/instruction/",
     "query": "Симбикорт инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_simbikort-turbuhaler-por-d-ingal-80mkg-4-5mkg-doza-60doz-n1-0023235.html",
@@ -2464,6 +2932,12 @@
     "query": "Симбикорт инструкция по применению",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/bronkhialnaya-astma-khobl/simbikort-turbuhaler-poroshok-d-11793302/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/simbikort/",
+    "query": "Симбикорт",
+    "competitor_url": "https://apteka-april.ru/product/95621-simbikort_turbuhaler_poroshok_dlya_ingalyacij_1604_5mkg_60doz",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/simbikort/",
@@ -2504,6 +2978,12 @@
   {
     "target_url": "https://tabletka.ru/selection/sulfasalazin/instruction/",
     "query": "Сульфасалазин инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/9330-sulfasalazin_tabletki_500mg_50",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/sulfasalazin/instruction/",
+    "query": "Сульфасалазин инструкция по применению",
     "competitor_url": "https://stolichki.ru/drugs/sulfasalazin-tab-p-o-500mg-50",
     "competitor_domain": "stolichki.ru"
   },
@@ -2540,6 +3020,12 @@
   {
     "target_url": "https://tabletka.ru/selection/singulyar/instruction/",
     "query": "Сингуляр инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/227802-singulyar_tabletki_zhevatelnye_5mg_28",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/singulyar/instruction/",
+    "query": "Сингуляр инструкция по применению",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/bronkhialnaya-astma-khobl/singulyar-tab-zhev-35084/",
     "competitor_domain": "planetazdorovo.ru"
   },
@@ -2566,6 +3052,12 @@
     "query": "Тантум Верде инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/tantum-verde-rr-d-mestn-prim-120ml-32702/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/tantum-verde/instruction/",
+    "query": "Тантум Верде инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/26546-tantum_verde_sprej_fl_30ml",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/timogen/instruction/",
@@ -2606,6 +3098,12 @@
   {
     "target_url": "https://tabletka.ru/selection/telmisartan/",
     "query": "Телмисартан",
+    "competitor_url": "https://apteka-april.ru/product/270869-telmisartan_tabletki_40mg_28",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/telmisartan/",
+    "query": "Телмисартан",
     "competitor_url": "https://planetazdorovo.ru/vladivostok/catalog/lekarstva-i-bad/serdtse-i-sosudy/vysokoe-davlenie/telmisartan-tab-80mg-35726725/",
     "competitor_domain": "planetazdorovo.ru"
   },
@@ -2624,6 +3122,12 @@
   {
     "target_url": "https://tabletka.ru/selection/tioktatsid/",
     "query": "Тиоктацид",
+    "competitor_url": "https://apteka-april.ru/product/9702-tioktacid_600_t_rastvor_dlya_infuzij_600mg_ampuly_24ml_5",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/tioktatsid/",
+    "query": "Тиоктацид",
     "competitor_url": "https://zdravcity.ru/p_tioktacid-600-t-r-r-d-in-25mg-ml-24ml-n5-0008116.html",
     "competitor_domain": "zdravcity.ru"
   },
@@ -2638,6 +3142,12 @@
     "query": "Трилактан",
     "competitor_url": "https://zdravcity.ru/p_trilaktan-kapli-glaznye-0-005-fl-kap-2-5ml-n3-0105460.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/trilaktan/",
+    "query": "Трилактан",
+    "competitor_url": "https://apteka-april.ru/product/264006-trilaktan_glaznye_kapli_0_005_fl_2_5ml_3",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/trilaktan/",
@@ -2690,6 +3200,12 @@
   {
     "target_url": "https://tabletka.ru/selection/triderm/instruction/",
     "query": "Тридерм инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/83693-triderm_maz_15g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/triderm/instruction/",
+    "query": "Тридерм инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_triderm-maz-dlja-naruzhnogo-primenenija-0-05-0-1-1-15g-0209178.html",
     "competitor_domain": "zdravcity.ru"
   },
@@ -2712,10 +3228,22 @@
     "competitor_domain": "stolichki.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/traumel-s/",
+    "query": "Траумель С",
+    "competitor_url": "https://apteka-april.ru/product/26194-traumel_s_maz_50g",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/trimetazidin/",
     "query": "Триметазидин",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/serdtse-i-sosudy/ibs-stenokardiya/trimetazidin-tab-p-ob-14090/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/trimetazidin/",
+    "query": "Триметазидин",
+    "competitor_url": "https://apteka-april.ru/product/204110-trimetazidin_mv_tabletki_35mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/trimetazidin/",
@@ -2852,6 +3380,12 @@
   {
     "target_url": "https://tabletka.ru/selection/valemidin/",
     "query": "Валемидин",
+    "competitor_url": "https://apteka-april.ru/product/349165-valemidin_kapli_flakon_25ml",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/valemidin/",
+    "query": "Валемидин",
     "competitor_url": "https://stolichki.ru/drugs/valemidin-kapli-vnutr-25ml",
     "competitor_domain": "stolichki.ru"
   },
@@ -2882,6 +3416,12 @@
   {
     "target_url": "https://tabletka.ru/selection/valvir/instruction/",
     "query": "Валвир инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/213093-valvir_tabletki_500mg_42",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/valvir/instruction/",
+    "query": "Валвир инструкция по применению",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/protivovirusnye/gerpes-tsmv-vpch/valvir-tab-p-ob-7862/",
     "competitor_domain": "planetazdorovo.ru"
   },
@@ -2904,10 +3444,22 @@
     "competitor_domain": "gorzdrav.org"
   },
   {
+    "target_url": "https://tabletka.ru/selection/valatsiklovir/",
+    "query": "Валацикловир",
+    "competitor_url": "https://apteka-april.ru/product/211084-valaciklovir_tabletki_500mg_10",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/validol/",
     "query": "Валидол",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/serdtse-i-sosudy/uluchshenie-krovoobrashcheniya/validol-tab-pod-yaz-15045/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/validol/",
+    "query": "Валидол",
+    "competitor_url": "https://apteka-april.ru/product/239333-validol_kapsuly_0_05g_40",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/validol/",
@@ -2920,6 +3472,12 @@
     "query": "Вальсакор инструкция по применению",
     "competitor_url": "https://zdravcity.ru/p_valsakor-tab-p-o-plen-80mg-n28-0047325.html",
     "competitor_domain": "zdravcity.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/valsakor/instruction/",
+    "query": "Вальсакор инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/336138-valsakor_tabletki_160mg_30",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/vessel-due-f/instruction/",
@@ -2952,10 +3510,22 @@
     "competitor_domain": "stolichki.ru"
   },
   {
+    "target_url": "https://tabletka.ru/selection/varfarin/",
+    "query": "Варфарин",
+    "competitor_url": "https://apteka-april.ru/product/90216-varfarin_tabletki_2_5mg_100",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
     "target_url": "https://tabletka.ru/selection/vitrum/",
     "query": "Витрум",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/vitaminy/vitaminno-mineralnye-kompleksy/vitrum-enerdzhi-vitaminnyj-komp-16516411/",
     "competitor_domain": "planetazdorovo.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/vitrum/",
+    "query": "Витрум",
+    "competitor_url": "https://apteka-april.ru/product/293374-vitrum_immunaktiv_tab_60",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/vitrum/",
@@ -2968,6 +3538,12 @@
     "query": "Витрум",
     "competitor_url": "https://stolichki.ru/drugs/vitrum-plyus-tab-p-o-60",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/vizanna/instruction/",
+    "query": "Визанна инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/105938-vizanna_tabletki_2mg_28",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/vizanna/instruction/",
@@ -2996,6 +3572,12 @@
   {
     "target_url": "https://tabletka.ru/selection/vertigokhel/",
     "query": "Вертигохель",
+    "competitor_url": "https://apteka-april.ru/product/150446-vertigohel_tabletki_50",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/vertigokhel/",
+    "query": "Вертигохель",
     "competitor_url": "https://planetazdorovo.ru/catalog/lekarstva-i-bad/nevrologiya-psikhiatriya/golovokruzhenie/vertigohel-tab-50-10884/",
     "competitor_domain": "planetazdorovo.ru"
   },
@@ -3020,8 +3602,20 @@
   {
     "target_url": "https://tabletka.ru/selection/vobenzim/instruction/",
     "query": "Вобэнзим инструкция по применению",
+    "competitor_url": "https://apteka-april.ru/product/227503-vobenzim_tabletki_100",
+    "competitor_domain": "apteka-april.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/vobenzim/instruction/",
+    "query": "Вобэнзим инструкция по применению",
     "competitor_url": "https://gorzdrav.org/p/vobenzim-tabl-p-o-100-204073/",
     "competitor_domain": "gorzdrav.org"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/zerkalin/",
+    "query": "Зеркалин",
+    "competitor_url": "https://apteka-april.ru/product/187743-zerkalin_rastvor_dlya_mestnogo_primeneniya_10mgml_fl_30ml",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/zerkalin/",
@@ -3040,6 +3634,12 @@
     "query": "Зеркалин",
     "competitor_url": "https://stolichki.ru/drugs/zerkalin-r-r-30ml",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/zokardis/",
+    "query": "Зокардис",
+    "competitor_url": "https://apteka-april.ru/product/89396-zokardis_tabletki_7_5mg_28",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/zokardis/",
@@ -3070,6 +3670,12 @@
     "query": "Заласта",
     "competitor_url": "https://stolichki.ru/drugs/zalasta-tab-5mg-28",
     "competitor_domain": "stolichki.ru"
+  },
+  {
+    "target_url": "https://tabletka.ru/selection/zalasta/",
+    "query": "Заласта",
+    "competitor_url": "https://apteka-april.ru/product/191320-zalasta_tabletki_5mg_28",
+    "competitor_domain": "apteka-april.ru"
   },
   {
     "target_url": "https://tabletka.ru/selection/zalasta/",
