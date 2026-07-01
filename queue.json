@@ -1,0 +1,4241 @@
+{
+  "batch_size": 5,
+  "pass_threshold": 85,
+  "items": [
+    {
+      "url": "https://tabletka.ru/catalog/bady-dlya-beremennykh-i-kormyashchikh/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/catalog/dlya-kozhi-volos-i-nogtey/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/catalog/tonometry/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/pharmacies/moskva/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/adenoprosin-svechi-29mg-10-10007702/",
+      "status": "done",
+      "query": null,
+      "score": null,
+      "report_path": "output/adenoprosin.docx"
+    },
+    {
+      "url": "https://tabletka.ru/product/adiarin-regidrokompleks-por-d-r-ra-sashe-10-10026913/",
+      "status": "done",
+      "query": null,
+      "score": null,
+      "report_path": "output/adiarin.docx"
+    },
+    {
+      "url": "https://tabletka.ru/product/adonis-brom-tabletki-po-600mg-20-14680/",
+      "status": "done",
+      "query": null,
+      "score": null,
+      "report_path": "output/adonis-brom.docx"
+    },
+    {
+      "url": "https://tabletka.ru/product/adutsil-tab-ppo-100mg-60-10003480/",
+      "status": "done",
+      "query": null,
+      "score": null,
+      "report_path": "output/adutsil.docx"
+    },
+    {
+      "url": "https://tabletka.ru/product/afala-tabletki-gomeopat-100-25498/",
+      "status": "done",
+      "query": null,
+      "score": null,
+      "report_path": "output/afala.docx"
+    },
+    {
+      "url": "https://tabletka.ru/product/aflubin-kapli-50ml-10012602/",
+      "status": "done",
+      "query": null,
+      "score": null,
+      "report_path": "output/aflubin.docx"
+    },
+    {
+      "url": "https://tabletka.ru/product/afrin-sprey-naz-0-05-15ml-uvlazhnyayushchiy-133267/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/agarta-tab-50mg-30-137938/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/aktipol-m-kapli-glazn-70mkg-ml-5ml-10015739/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/akvion-lipotropnyy-faktor-tab-po-50-10043807/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/alerana-tabletki-60-vitaminno-mineralnyy-kompleks-30627/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/allervey-tab-ppo-5mg-30-69094/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ambene-bio-r-r-d-in-amp-2ml-5-10029634/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ambroksol-tabletki-30mg-20-1117/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/amitriptilin-tab-25mg-50-123405/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/androdoz-layt-tab-ship-20-10041238/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/antiadgezin-gel-shpr-3g-protivospaechnyy-rassasyvayushchiy-10045929/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/apizartron-maz-50g-10063309/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/apparat-magnitoterapevticheskiy-almag-01-85444/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/aranesp-r-r-d-in-30mkg-0-3ml-shpr-1-10006285/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/arimideks-tabletki-ppo-1mg-28-48987/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ariprizol-tab-10mg-30-121652/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/artneo-kaps-30-100947/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/artra-msm-tab-ppo-60-128013/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/asigliya-met-tab-ppo-1000mg-50mg-56-10043017/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/askorutin-tab-50-10033568/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/aspirin-s-tab-ship-10-133286/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/atenolol-tab-50mg-30/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/attento-tab-ppo-10mg-40mg-28-136811/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/attento-tab-ppo-5mg-20mg-28-132094/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/avastin-konts-d-r-ra-d-inf-400mg-16ml-10007477/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bakh-15-kholi-kapli-podyazychn-10ml-23029/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bakh-mimulyus-20-kapli-d-vnutr-primen-10ml-22305/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/baklofen-tab-10mg-50-17405/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/baklofen-tab-25mg-50-17406/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/baklosan-tabletki-10mg-50-1906/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bandazh-d-sheynogo-otd-orlett-art-bn6-53-11-1-bezh-41866/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/baralgin-m-tab-20-130935/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/baziron-as-gel-2-5-40g-38095/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/baziron-as-gel-5-40g-53996/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bint-elast-lauma-3mx10sm-s-zastezhkami-64104/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bint-elast-lauma-5mx10sm-s-zastezhkami-51877/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bint-elast-peha-haft-4mx4sm-kogezivnyy-belyy-2310/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bint-elast-peha-haft-4mx6sm-kogezivnyy-belyy-2312/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bioderma-sensibio-gel-200ml-ochishchayushchiy-2415/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bioderma-sensibio-gel-ochishch-100ml-10029743/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bioripea-z-pasta-75ml-peribioma-128583/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bisakodil-tabletki-po-kishechnorastv-sakh-5mg-30-2459/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bisakodil-tab-po-kishechnorastv-5mg-30-10051797/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/breynmaks-kaps-250mg-250mg-40-10038407/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/breynmaks-kaps-250mg-250mg-60-10037656/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/briviak-tab-ppo-25mg-56-10005255/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/bromgeksin-tab-8mg-20-10019143/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/buserelin-depo-liofilizat-d-susp-d-v-m-vved-prolong-3-75mg-fl-1-2714/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/chinch-kapsuly-320mg-60-10005327/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/contex-classic-prezervativy-18-klassicheskie-6193/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/contex-lights-prezervativy-12-osobo-tonkie-6195/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/curaprox-prime-plus-siniy-v-assort-ershiki-mezhzubnye-25990/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/dalatsin-krem-vaginalnyy-2-tub-40g-4128/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/dalatsin-supp-vag-100mg-3-10061512/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/dantinorm-bebi-rastvor-d-vnutr-primen-kont-1ml-10-4136/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/daygo-zh-t-pak-sashe-10ml-30-10055908/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/dayvoneks-maz-dlya-naruzhnogo-primeneniya-50mkg-g-30g-4122/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/dazolik-tabletki-po-500mg-10-4117/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/deksametazon-romfarm-kapli-glaznye-0-1-10ml-4179/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/deksonal-tabletki-ppo-25mg-10-71695/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/dekspantenol-maz-d-naruzh-primen-5-25g-10020077/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/delsiya-tab-ppo-30mkg-3mg-63-10019887/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/depakin-khronosfera-gran-prolong-vysvob-250mg-pak-30-118774/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/depakin-khrono-tab-po-prolong-500mg-30-130248/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/devilam-tab-ppo-5000me-30-10052676/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/diakarb-tab-250mg-30-136550/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/diklofenak-r-r-d-v-m-vved-75mg-3ml-amp-3ml-5-121892/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/dinamiko-long-tab-ppo-5mg-28-10003677/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/divaza-tabletki-d-rassas-100-51367/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/doksi-khem-kapsuly-500mg-90-17687/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/durex-classic-prezervativ-12-klassicheskie-4867/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/elevit-planirovanie-i-pervyy-trimestr-tabletki-ppo-30-76003/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/elevit-pronatal-tab-ppo-30-122389/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/elevit-vtoroy-i-tretiy-trimestr-kaps-30-91278/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/emla-krem-d-mest-i-naruzh-primen-30g-10009517/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/enerion-tabletki-po-200mg-20-35197/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/epigen-intim-sprey-0-1-60ml-19353/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/epostim-rastvor-dlya-vnutrivennogo-i-podkozhnogo-vvedeniya-2000me-ml-1ml-1/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/eritropoetin-r-r-d-v-v-i-p-k-vved-2tys-me-1ml-10-88912/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/etoksisklerol-r-r-d-in-1-2ml-5-88086/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fagogin-gel-50ml-bakteriofag-67523/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/farmateks-krem-vaginalnyy-72g-applikator-12948/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fastum-gel-dlya-naruzhnogo-primeneniya-2-5-30g-19810/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/felodip-tab-ppo-prolong-vysvob-5mg-60-10046326/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/feminatabs-tab-d-rassas-45-10055214/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/femoden-drazhe-21-19031/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ferinzhekt-rastvor-d-v-v-vved-50mg-ml-2ml-5-13040/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ferretab-komp-kaps-s-prolong-vysv-30-10018994/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ferroglobin-v12-kapsuly-30-13057/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fiasp-r-r-d-v-v-i-p-k-vved-100ed-ml-kartr-penfill-3ml-5-127746/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fiasp-r-r-d-v-v-i-p-k-vved-100ed-ml-kartr-v-shpr-ruchke-3ml-5-flekspen-10032939/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fibraksin-sashe-pakety-6g-15-18386/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/flebaven-tab-ppo-1000mg-32-136259/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fleminga-maz-gomeopaticheskaya-25g-19603/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/florioza-plyus-por-pak-sashe-2g-10-10067066/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fluoksetin-lanakher-kaps-20mg-20-10024207/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/flutsinar-maz-dlya-naruzhnogo-primeneniya-15g-19081/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/folievaya-k-ta-tabletki-1mg-50-13400/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/folio-tab-90-10033061/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fortrans-por-d-r-ra-d-vnutr-4-10063523/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fotil-forte-kapli-glazn-4-5ml-10026820/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/fukortsin-r-r-naruzh-25ml-10029446/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/furadonin-tab-100mg-20-10031616/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gabapentin-kanon-kaps-300mg-banka-100-10033650/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gabapentin-kaps-300mg-100-10038025/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gabapentin-sz-kaps-300mg-100-132071/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/geksaliz-tab-30-10027365/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/geladrink-forte-sashe-pakety-14-lyuks-10006646/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gemzar-liofil-d-r-ra-d-inf-1g-fl-1-10011657/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/generolon-sprey-d-naruzh-primen-5-60ml-10013816/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gepa-merts-gran-d-r-ra-vnutr-3g-pak-5g-30-10024715/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/geparin-rastvor-d-in-5000me-ml-ampula-5ml-5-3769/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/geparin-r-r-d-v-v-i-p-k-vved-5000me-ml-amp-5ml-5-10030135/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/geptor-liofilizat-d-r-ra-v-v-i-v-m-vved-400mg-5-rastv-l-10001876/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gialurom-cs-rastvor-d-v-sustavn-vved-60mg-90mg-shpr-3ml-1-64031/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ginoflor-e-tab-vag-6-10028630/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gipoksen-kaps-0-25g-30-34483/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/glation-por-d-r-ra-d-v-v-i-v-m-vved-0-6mg-5-10045627/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gliklazid-tab-s-prolong-vysvob-60mg-30-10058886/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gls-magniy-khelat-kaps-200-10059348/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/glyukagen-gipokit-liofil-d-r-ra-d-in-1mg-shpr-1ml-1-10005544/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/glyukozamin-khondroitinovyy-kompleks-0-32-kapsuly-90-26826/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/gomeostress-tabletki-d-rassas-40-4047/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/grassberg-magniy-premium-b6-kaps-60-magniy-premium-v6-10040544/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/imatinib-kaps-400mg-30-10044928/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/imatinib-tab-ppo-400mg-30-10052899/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/immunoglobulinovyy-kompeksnyy-preparat-liofil-d-r-ra-300mg-fl-5-22178/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/immunoglobulinovyy-kompleksnyy-preparat-kip-liofil-d-r-ra-vnutr-300mg-doz-fl-5-9964/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/imodium-ekspress-tabletki-liofilizat-2mg-20-5182/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/impaza-tabletki-20-21081/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/inektran-rastvor-d-v-m-vved-100mg-100ml-ampula-2ml-10-10000246/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/inoltra-kaps-180-28395/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/irinotekan-konts-d-r-ra-d-inf-20mg-ml-5ml-1-10005581/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/izofra-aeroz-naz-15ml-136561/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kampto-tss-konts-d-r-ra-d-inf-20mg-ml-fl-5ml-1-10010602/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kaptopril-tabletki-25mg-20-10493/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/karboplatin-ronts-konts-d-r-ra-d-inf-10mg-ml-fl-45ml-132585/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kardiket-tab-prolong-deystviya-20mg-50-86232/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kardiket-tab-prolong-deystviya-40mg-50-10009866/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kartiloks-por-pak-sashe-10-45g-30-10033908/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kelo-kout-gel-tub-6g-10010596/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ketonal-duo-kaps-s-modif-vysvob-150mg-30-10008281/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/khelinorm-kaps-324mg-28-131137/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/khondroksid-artra-maz-5-30g-10043663/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/khondroksid-gel-5-30g-13675/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/khondroksid-tabletki-250mg-60-13678/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/khronotron-implantat-v-vide-gelya-na-osn-polinukleotidov-d-v-sustavn-inekts-20mg-ml-shpr-2ml-1-72759/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/khumalog-miks-50-susp-d-p-k-vved-100me-ml-3ml-5-shprits-ruchka-kvikpen-130933/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/klindatsin-b-prolong-krem-vag-tub-19g-10057379/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/klindovit-kombo-50mg-10mg-g-gel-d-naruzhn-primen-15g-137079/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/klostilbegit-tabletki-50mg-10-18059/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/koenzim-q-10-kaps-100mg-60-10033014/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kogitum-r-r-d-vnutr-primen-250mg-10ml-30-10034366/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kolbiotsin-maz-glazn-5g-105025/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kolistin-por-d-ing-doz-1mln-ed-28-10031179/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kompligam-v-kompleks-tab-30-10044393/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kontraktubeks-gel-50g-10027712/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kora-tonik-150ml-d-sukhoy-i-chuvstv-kozhi-101497/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kordaron-tab-200mg-30-130747/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/korset-d-poyasn-krests-otd-orlett-r-s-art-lss-114-bezh-stand-39499/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kudesan-kapli-d-vnutr-primen-30mg-ml-20ml-10033551/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/kuraproks-nabor-z-shchetok-art-cs5460-2boxcharlese-2-zheltyy-10012761/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/laennek-r-r-d-in-amp-2ml-10-58357/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/laktaza-bebi-ferment-kapsuly-90-30863/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/laktobalans-kaps-378mg-28-85983/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/laktobalans-multiprobiotik-kaps-7-10055411/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/laktoflorene-gastro-por-pak-sashe-10-10063301/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/laktozhinal-kaps-vag-14-10025135/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lamizil-tabletki-250mg-14-50814/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lamolep-tabletki-50mg-30-24524/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lantsid-kapsuly-30mg-30-26374/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/laripront-tabletki-d-rassas-20-18180/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/la-roche-posay-effaclar-gel-200ml-ochishchayushchiy-7417/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/la-roche-posay-toleriane-dermallergo-krem-40ml-113834/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/la-roche-posay-toleriane-sensitive-rich-krem-40ml-d-sverkhchuvst-kozhi-7393/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ledi-s-formula-menopauza-uf-kaps-30-10062202/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/levemir-flekspen-r-r-d-p-k-vved-100ed-ml-shpr-ruchk-3ml-5-21112/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/likferr-100-r-r-d-v-v-vved-20mg-5ml-5ml-5-23539/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/linezolid-r-r-d-inf-2mg-ml-but-300ml-1-48795/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lit-kontrol-litura-kaps-60-10052739/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lizinopril-teva-tabletki-10mg-20-6986/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lizinopril-teva-tabletki-10mg-30-16193/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/loratadin-tabletki-10mg-10-26647/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/loreta-tab-ppo-2-5mg-30-10023181/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lorotoks-kapli-ushn-16ml-10006441/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/losterin-krem-d-nog-75ml-10044758/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/lya-rosh-poze-tsikaplast-v5-balzam-40ml-124993/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/mabell-plyus-tab-po-90-133320/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/mabell-tsikl-tab-60-133315/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/magniy-v6-forte-tab-500mg-120-117078/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/maksitrol-kapli-glaznye-fl-kap-5ml-18261/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/maslo-bio-oyl-60ml-kosmetich-46225/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/mastopol-tbl-podyazychn-gomeopat-60-35928/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/medrol-tab-16mg-50-133441/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/meldoniy-kaps-250mg-40-133130/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/meloksikam-tabletki-15mg-20-29509/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/men-s-formula-bolshe-chem-polivitaminy-kaps-30-energiya-immunitet-10062544/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/men-s-formula-bolshe-chem-polivitaminy-kaps-60-energiya-immunitet-10062545/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/mesakol-tabletki-po-kishechnorastv-400mg-50-7995/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/metoklopramid-r-r-d-v-v-i-v-m-vved-0-5-2ml-10-10037842/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/metrogil-a-gel-d-naruzhn-primen-0-1-1-20g-10031365/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/midzo-kapli-dlya-vnutrennego-primeneniya-60mg-ml-ampula-15ml-4-10000361/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/mig-400-tabletki-ppo-400mg-20-38102/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/mikoderil-krem-dlya-naruzhnogo-primeneniya-1-15ml-8111/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/mikozoral-maz-d-naruzh-primen-2-15g-10049031/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/modelaks-n-r-r-rekt-tub-5ml-8-10047478/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/moksonidin-sz-tab-ppo-400mkg-60-10024566/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/monochinkve-tabletki-40mg-30-18348/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/multi-tabs-malysh-kaltsiy-tabletki-zhev-30-malina-klubnika-8380/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/multivita-immuno-c-d-zn-kaps-30-127055/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nakom-tab-250mg-25mg-100-125660/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/natriya-khlorid-r-r-d-inf-0-9-200ml-28-24512/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/natriya-khlorid-r-r-d-inf-0-9-but-stekl-250ml-10060418/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/natriya-khlorid-r-r-d-inf-0-9-but-stekl-500ml-10060208/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nau-fuds-kaps-200mg-60-5-ntr-10004913/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nau-fuds-omega-3-kaps-1000mg-100-123086/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nau-fuds-omega-3-kaps-1000mg-30-123087/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nau-fuds-super-omega-3-6-9-kaps-90-123089/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nau-fuds-vitamin-d3-vysokoaktivnyy-kaps-1000me-180-10057042/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nazol-sprey-nazalnyy-0-025-10ml-70908/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nefrobest-kaps-60-10037822/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nervokhel-tabletki-sublingv-50-18396/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neuleptil-kapsuly-10mg-50-18397/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neuleptil-r-r-d-vnutr-primen-4-fl-125ml-87098/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neyches-baunti-multivitamin-pastilki-zhev-60-gammis-b-sakhara-d-vzroslykh-10039954/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neypomaks-r-r-d-v-v-i-p-k-vved-30mln-ed-ml-fl-1ml-5-88903/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neyrontin-kaps-300mg-100-130372/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neyrontin-kaps-300mg-50-10034373/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neyrontin-kapsuly-300mg-100-22592/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/neyrouridin-n-kaps-20-10048361/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nifuroksazid-suspenziya-d-vnutr-primen-200ml-5ml-100ml-10002661/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nikotinovaya-kislota-tab-50mg-50-12332/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nitroglitserin-tab-sublingv-0-5mg-40-41615/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/noben-kaps-30mg-30-116980/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/norkolut-tab-5mg-20-130659/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/no-shpa-forte-tab-80mg-24-124291/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/no-shpa-forte-tabletki-80mg-10-10003336/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/novofayn-igly-100-30g-0-3-8mm-zhelt-10009585/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/novofayn-igly-100-31g-0-25-6mm-sin-71022/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/nurkrin-tab-po-180-dlya-zhenshchin-126563/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/oftarint-kapli-glazn-10ml-93168/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/oksolinovaya-maz-d-naruzh-primen-3-10g-10009007/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/oraleyr-allergeny-trav-pyltsevye-tab-podyazychn-31-85113/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/orlistat-akrikhin-kapsuly-120mg-42-71142/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ortez-na-kolen-sust-orlett-r-s-art-rkn-203-p-10017474/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ortomol-immun-pro-poroshok-kurs-30-dney-103924/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ortomol-osteo-poroshok-kurs-30-dney-103923/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ostenil-implantat-d-v-sustavn-inekts-20mg-2ml-1-10009358/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/osteogenon-tabletki-po-830mg-40-18473/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ovariamin-klassik-tab-po-kishechnorastv-40-10061981/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ovarium-kompozitum-rastvor-d-v-m-vved-gomeopat-2-2ml-ampula-100-70973/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/paglyuferal-3-smes-sereyskogo-tabletki-20-71149/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/pantovigar-kaps-90-126800/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/paranit-forte-usilennaya-formula-shampun-100ml-greben-10059658/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/penester-tab-ppo-5mg-90-10011901/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/perfektil-tabletki-30-kozha-volosy-nogti-10000910/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/perfektil-trikholodzhik-woman-tbl-60-45756/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/perindopril-solofarm-tab-ppo-5mg-30-10055647/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/perindopril-tabletki-4mg-30-9752/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/pikovit-1-sirop-d-detey-150ml-10044803/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/pimafutsin-tab-po-kishechnorastv-100mg-20-10029876/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/piratsetam-tabletki-po-400mg-60-29529/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/pletaks-tabletki-ppo-100mg-60-10042/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/probiel-bio-kaps-10-133339/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/pronoran-tabletki-po-s-kontrolir-vysvob-50mg-30-31246/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/proproten-100-kapli-dlya-vnutrennego-primeneniya-fl-25ml-19978/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/rakstan-sanovel-tab-po-100mg-10-10039724/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/raloteks-tab-10mg-30-10037613/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/rebelsas-tab-3mg-30-10034463/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/rederm-maz-d-naruzh-primen-15g-50021/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/reduksin-forte-tab-ppo-850mg-10mg-30-138124/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/remaksol-rastvor-d-inf-400ml-34166/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/remaksol-r-r-d-inf-kont-400ml-5-10027085/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/remens-kapli-d-vnutr-gomeopat-50ml-10010718/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/renitek-tabletki-5mg-14-18688/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/reskyu-remedi-kapli-dlya-vnutrennego-primeneniya-gomeopaticheskie-10ml-10578/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/respiforb-kombi-nabor-kaps-400mkg-doza-12mkg-doza-60-60-ustr-vo-d-ingalyatsiy-123599/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/retasol-rastvor-d-naruzh-primen-0-025-50ml-24268/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/roakkutan-kapsuly-20mg-30-10704/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/roksatenz-inda-1-25mg-4mg-10mg-tab-ppo-30-10017302/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/romashka-aptechnaya-tsvetki-filtr-pak-1-5g-20-10818/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/romashka-aptechnaya-tsvetki-pach-50g-10815/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/rovatineks-kapsuly-kishechnorastv-50-66896/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sandimmun-neoral-r-r-d-vnutr-primen-100mg-1ml-50ml-10005247/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seni-active-normal-trusiki-r-l-10-5-5-kapel-11128/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seni-active-trusiki-r-l-10-6-kapel-11124/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seni-aktiv-normal-trusiki-r-l-30-92113/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seni-super-plyus-podguzniki-d-vzroslykh-r-m-10-10055525/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seni-super-plyus-podguzniki-r-m-10-45463/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seni-super-plyus-podguzniki-r-m-30-61266/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seni-super-plyus-podguzniki-r-xl-10-25881/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seretid-aerozol-d-ing-doz-25mkg-125mkg-120doz-klapan-dozir-11195/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/seretid-multidisk-por-d-ing-doz-50mkg-250mkg-60doz-10011831/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/serokvel-prolong-tab-ppo-prolong-400mg-60-10005609/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sertaverin-shampun-2-75ml-10044262/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sialor-renewal-komplekt-tab-i-rastv-l-2-10ml-86478/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sibri-brizkhaler-kaps-s-por-d-ing-50mkg-30-34690/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/simbikort-rapikhaler-por-d-ing-doz-80mkg-4-5mkg-120doz-20473/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sindzhardi-tabletki-ppo-1000mg-12-5mg-60-10002805/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sintomitsin-liniment-10-25g-11324/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sinvisk-protez-sinovial-zhidkosti-6ml-1-51563/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sisteyn-ultra-kapli-glazn-15ml-10029365/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sofradeks-kapli-glaznye-i-ushn-5ml-137818/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/solantra-krem-d-naruzh-primen-1-30g-38096/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/solgar-kangavites-tabletiruemaya-massa-60-70783/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/solgar-tsitrat-magniya-200mg-60-46867/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/solian-tab-200mg-30-23097/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/solu-medrol-liofil-d-r-ra-d-v-v-i-v-m-vved-500mg-10050985/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/solu-medrol-liofilizat-d-r-ra-d-v-v-i-v-m-vved-1g-11534/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/spermaktin-forte-por-sashe-10g-15-10028588/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sporobakterin-zhidkiy-susp-vnutr-10ml-1-25479/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/staloral-allergen-kleshchey-kapli-podyazychn-fl-10ml-3-nachaln-kurs-10034035/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/stelfrin-supra-kapli-glazn-2-5-fl-10ml-130489/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sterofundin-r-r-d-inf-500ml-10-10007947/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/stressovit-n-kaps-30-10047573/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sulfatsil-natriya-kapli-glaznye-20-10ml-11846/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sulfatsil-natriya-kapli-glaznye-20-5ml-15181/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/sumatriptan-teva-tab-ppo-100mg-12-137860/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/suprenamin-tab-po-kishechnorastv-40-131258/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/takrolimus-kaps-1mg-50-10017681/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tamoksifen-tab-10mg-30-130663/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/taym-faktor-kaps-400mg-60-10011145/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tebantin-kapsuly-300mg-100-26329/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tebantin-kapsuly-300mg-50-26020/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tenoten-tabletki-gomeopat-40-24234/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/terafleks-kaps-200-136433/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tiapridal-tabletki-100mg-20-18937/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tiberal-tab-ppo-500mg-10-93851/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/timalin-por-d-in-10mg-10-10015561/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tiramin-klassik-tab-po-kishechnorastv-40-10062056/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tirzetta-r-r-d-p-k-vved-2-5mg-0-5ml-4-shprits-v-avtoinzhektore-10061433/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tonometr-avtomat-nissei-ds-500-manzheta-22-32sm-s-adapterom-64961/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tonzilotren-tab-40-10062939/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/torasemid-tab-5mg-60-10036204/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tramitsent-aeroz-naz-1-25-15ml-10011623/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/trigan-d-tabletki-100-18974/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/trigan-d-tabletki-20-23374/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/triozhinal-kapsuly-vag-14-23454/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tri-regol-tab-21-10019876/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/troychatka-evalar-kaps-400mg-40-10009808/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tseftriakson-poroshok-d-r-ra-d-v-v-i-v-m-vved-fl-1g-1-70953/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tsifran-st-tabletki-po-600mg-500mg-10-13929/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/tsitokhrom-c-liofilizat-d-r-ra-d-in-10mg-fl-5-30124/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/turboslim-alfa-lipoevaya-k-ta-i-l-karnitin-tbl-0-55g-20-12621/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ugol-aktivirovannyy-tab-250mg-30-58813/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ugol-aktivirovannyy-tabletki-250mg-20-27811/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ultrakain-ds-forte-r-r-d-in-40mg-10mkg-2ml-10-10020455/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ultrakain-ds-r-r-d-in-40mg-0-005mg-kartr-1-7ml-100-10005802/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/uriklar-kapsuly-30-65673/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/uronekst-por-d-susp-d-vnutr-sashe-14-10052602/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/uronekst-por-d-susp-d-vnutr-sashe-7-74231/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/uroprost-d-suppozitorii-rekt-10-76235/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/uryazh-gel-dermatologicheskiy-50ml-d-litsa-i-tela-obogashch-10046911/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/uryazh-iseak-emulsiya-matir-40ml-d-zhirn-i-komb-kozhi-40191/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/validol-tabletki-podyazychn-60mg-10-2867/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/validol-tab-podyazychn-60mg-10-85873/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vazobral-tabletki-30-10001868/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vazonit-tab-retard-po-600mg-20-10024200/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/velgiya-r-r-d-p-k-vved-1mg-doz-3ml-1-shprits-ruchka-igla-5-10059747/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/venofer-r-r-d-v-v-vved-20mg-5ml-5-23624/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/ventolin-aerozol-d-ing-doz-100mkg-doz-200doz-10ml-2997/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/versatis-plastyr-tts-sashe-30-10044472/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/versatis-plastyr-tts-sashe-5-10028176/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vilprafen-granuly-d-susp-d-vnutr-125mg-5ml-15g-10003325/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vilprafen-solyutab-tab-disperg-1g-10-10024849/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vitaferr-kaps-375mg-30-bad-10026394/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vitamin-f99-krem-dlya-naruzhnogo-primeneniya-50ml-zhirnyy-23674/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vita-pos-sredstvo-smaz-oftalm-5g-26621/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vitastrong-florioza-paket-sashe-10-87356/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vizleya-kapsuly-810mg-30-10005501/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vozheya-tab-650mg-30-10034510/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vuka-forte-tab-30-133319/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/vuka-vuka-tabletki-20-8786/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/zeldoks-kaps-60mg-30-10019852/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/product/zinnat-tab-ppo-250mg-10-131211/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/adiarin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/akriderm/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/akvalor/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/albumin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/alfa-normiks/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/alflutop/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/allaforte/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/amaril/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ambroksol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/amiodaron/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/amoksiklav/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/andipal/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/angiorus/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/antigrippin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/anvifen/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/arbidol/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/asigliya/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/askoril/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/askorutin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/atenolol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/atsiklovir/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/augmentin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/baklosan/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/baralgin-m/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/betagistin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/bifitsin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/bilobil/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/bisoprolol/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/brilinta/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/dalneva/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/dantinorm-bebi/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/depakin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/diprometa/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/dispevikt/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/doksi-khem/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/dry-dry/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/dyuspatalin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/dzhes/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ekvator/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/elevit/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/elikvis/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/elkar/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/enerion/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/enterol/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/eralfon/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ermital/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/essentsiale/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/eutiroks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/farmateks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/femoston/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/fenibut/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ferlatum/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/flamin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/flukonazol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/fluoksetin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/fortedetrim/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/fozikard/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/fukortsin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/fungoderil/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/furadonin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/furatsilin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/galvus/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ganfort/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/gaynomaks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/genferon/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/gepatrin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/geptral/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/gioksizon/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/giposart/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/glyukofazh/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/gonadotropin-khorionicheskiy/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/gonadotropin-khorionicheskiy/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/immunoglobulin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/imodium/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/imunofan/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/indapamid/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ingavirin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ismigen/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kaltsiy-d3-nikomed/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kaltsiy-d3-nikomed/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kamistad/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kanefron-n/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kardiom/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kardiomagnil/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/karsil/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/karsil/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/karvedilol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kavinton/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/klaritin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/klindatsin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/klindovit/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/klotrimazol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ko-diroton/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ko-diroton/analogues/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ko-eksforzh/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/koldreks/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kondronova/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/konkor/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kontraktubeks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ko-perineva/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/krestor/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ksenikal/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/kvinsenta/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/lamiktal/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/levetiratsetam/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/lidokain/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/likopid/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/lindinet/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/lineks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/livarol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/lizinopril/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/longidaza/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/loratadin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/lorista/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/magne-v6/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/mebikar/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/melatonin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/metodzhekt/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/metotreksat/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/metrogil/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/mildronat/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/miramistin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/mirapeks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/moksonidin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/montelar/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/monural/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/movalis/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/natriya-khlorid/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/nayz/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/nekst/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/neobutin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/nimesil/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/nimesulid/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/nolpaza/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/normomed/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/novaring/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/novobismol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/oflomelid/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/omakor/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/omez/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/omnik/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/orlistat/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/oseltamivir/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/otsillokoktsinum/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/paglyuferal/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/panangin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/pantenol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/pantogam/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/papaverin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/paranit/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/perindopril/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/perineva/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/piratsetam/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/polioksidoniy/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/prednizolon/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/prestans/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/probiel/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/prostateks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/relif/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/renni/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/rimantadin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/rinzasip/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/roakkutan/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/rokona/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/roksera/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/rotokan/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/salofalk/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/selektra/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/semavik/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/seretid/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/serokvel/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/simbalta/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/simbikort/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/simbikort/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/singulyar/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/smekta/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/sulfasalazin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/sulfatsil-natriya/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/sumatriptan/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/suprastin/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tanakan/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tantum-verde/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/telmisartan/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tenoten/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/terafleks/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/teralidzhen/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/timogen/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tioktatsid/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/torasemid/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/traumel-s/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/traumel-s/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/triderm/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/trilaktan/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/trimedat/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/trimetazidin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tripliksam/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tselebreks/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tsinokap/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tsipraleks/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/tsitaminy/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ulkavis/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/ultrakain/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/utrozhestan/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/valatsiklovir/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/valemidin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/validol/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/valsakor/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/valvir/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/varfarin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/vertigokhel/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/vessel-due-f/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/vitaprost/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/vitrum/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/vizanna/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/vobenzim/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/vobenzim/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/yarina/instruction/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/zalasta/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/zerkalin/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    },
+    {
+      "url": "https://tabletka.ru/selection/zokardis/",
+      "status": "pending",
+      "query": null,
+      "score": null,
+      "report_path": null
+    }
+  ]
+}
